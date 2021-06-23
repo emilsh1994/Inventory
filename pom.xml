@@ -9,7 +9,7 @@
     <name>Maven Webapp</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jetty.version>9.2.19.v20160908</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
     </properties>
     <dependencies>
         <dependency>
